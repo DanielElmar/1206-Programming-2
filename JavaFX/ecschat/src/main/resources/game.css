@@ -1,0 +1,22 @@
+root {
+    display: block;
+}
+.root {
+    -fx-background-image: url("background.jpg");
+}
+.label {
+     -fx-font-size: 32px;
+     -fx-font-family: "Arial Black";
+}
+
+#scoreText{
+    -fx-padding: 0 10 10 0;
+}
+#currentScoreLabel{
+    -fx-font-size: 48px;
+    -fx-padding: 20 10 10 20;
+}
+#highScore{
+    -fx-font-size: 20px;
+}
+
